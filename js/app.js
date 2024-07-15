@@ -159,7 +159,6 @@ function displayProducts(prodotti) {
     const html = `
         <div class="col-lg-4 col-md-6 py-3">
              <div class="card">
-                
                  <img src="${imgUrl}" class="card-img-top" alt="...">
                  <div class="card-body">
                      <h5 class="card-title">${name} ${newBadge} ${discountBadge}</h5>
